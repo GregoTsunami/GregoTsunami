@@ -3,7 +3,7 @@
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
 - 🔭 Atualmente trabalhando em: ---
 - 🌱 Estudando: After Effects
-- 🤔 Procurando ajuda em: inglês, C# e ASP
+- 🤔 Procurando ajuda em: ---
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu não sei de onde meu nome vem
 

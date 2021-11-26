@@ -1,5 +1,6 @@
 ### Bem vindo ao meu perfil! 👋
 
+- 👨‍🎓 Técnico em Desenvolvimento de Sistemas
 - 🔭 Atualmente trabalhando em: ---
 - 🌱 Estudando: After Effects
 - 🤔 Procurando ajuda em: inglês, C# e ASP

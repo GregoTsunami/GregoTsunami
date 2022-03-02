@@ -1,6 +1,7 @@
 ### Bem vindo ao meu perfil! 👋
 
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
+- 📖 Cursando: Engenharia Naval - Poli-USP
 - 🔭 Atualmente trabalhando em: ---
 - 🌱 Estudando: After Effects
 - 🤔 Procurando ajuda em: ---

@@ -1,8 +1,8 @@
 ### Bem vindo ao meu perfil! 👋
 
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
-- 📖 Cursando: Engenharia Naval - Poli-USP
-- 🔭 Atualmente trabalhando em: ---
+- 📖 Cursando: Engenharia Naval - Escola Politécnica - USP
+- 🔭 Atualmente trabalhando em: Poli Náutico - Poli-USP
 - 🌱 Estudando: After Effects
 - 🤔 Procurando ajuda em: ---
 - 😄 Pronouns: ele/dele

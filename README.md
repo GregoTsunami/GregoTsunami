@@ -3,7 +3,7 @@
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📖 Cursando: Engenharia Naval - Escola Politécnica - USP
 - 🔭 Atualmente trabalhando em: Poli Náutico - Poli-USP
-- 🌱 Estudando: After Effects
+- 🌱 Estudando: After Effects, Python, Matlab
 - 🤔 Procurando ajuda em: ---
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu não sei de onde meu nome vem

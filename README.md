@@ -1,4 +1,8 @@
-### Bem vindo ao meu perfil! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29b6f6&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=29b6f6&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+!;+:%29)](https://git.io/typing-svg) 
+
+### Informações: 
 
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📖 Cursando: Engenharia Naval - Escola Politécnica - USP
@@ -7,9 +11,6 @@
 - 🤔 Procurando ajuda em: Gurobi
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu não sei de onde meu nome vem
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoTsunami&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoTsunami&layout=compact&theme=algolia)](https://github.com/GregoTsunami/github-readme-stats)
 
 ##
 ### Linguagens/Ferramentas
@@ -29,3 +30,11 @@
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
 
  </div>
+
+ ##
+### Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoTsunami&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoTsunami&layout=compact&theme=react)](https://github.com/GregoTsunami/github-readme-stats)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29b6f6&height=120&section=footer"/>

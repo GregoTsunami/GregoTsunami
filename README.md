@@ -2,9 +2,9 @@
 
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📖 Cursando: Engenharia Naval - Escola Politécnica - USP
-- 🔭 Atualmente trabalhando em: Poli Náutico - Poli-USP
-- 🌱 Estudando: After Effects, Python, Matlab
-- 🤔 Procurando ajuda em: ---
+- 🔭 Atualmente trabalhando em: RouteLab/OTIC - Departamento de Engenharia Naval da USP
+- 🌱 Estudando: Python, Matlab
+- 🤔 Procurando ajuda em: Gurobi
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu não sei de onde meu nome vem
 

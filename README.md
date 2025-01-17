@@ -21,20 +21,33 @@
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+
+
+
+ </div>
+
+ ### Outros conhecimentos
+
+<div style="display: inline_block"><br>
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
     <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
-    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+    <img align="center" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 
  </div>
 
- ##
+##
 ### Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregoTsunami&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GregoTsunami&layout=compact&theme=react)](https://github.com/GregoTsunami/github-readme-stats)
+![Profile View Counter](https://komarev.com/ghpvc/?username=GregoTsunami)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29b6f6&height=120&section=footer"/>

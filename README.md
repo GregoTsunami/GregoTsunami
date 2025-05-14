@@ -6,8 +6,8 @@
 
 - 👨‍🎓 Técnico em Desenvolvimento de Sistemas
 - 📖 Cursando: Engenharia Naval - Escola Politécnica - USP
-- 🔭 Atualmente trabalhando em: RouteLab/OTIC - Departamento de Engenharia Naval da USP
-- 🌱 Estudando: Python, Matlab
+- 🔭 Atualmente trabalhando em: OTIC - Departamento de Engenharia Naval da USP
+- 🌱 Estudando: Python, Matlab, Otimização, Pesquisa Operacional
 - 🤔 Procurando ajuda em: Gurobi
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu não sei de onde meu nome vem
